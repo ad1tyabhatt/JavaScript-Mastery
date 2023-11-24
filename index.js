@@ -4,4 +4,11 @@
 // console.log(a)
 
 
- 
+// string to number
+
+// let a= "10"
+// a = Number(a);
+// console.log(typeof(a))
+
+// 
+
