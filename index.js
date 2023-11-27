@@ -27,5 +27,8 @@
 
 
 function sing(){
-  
+
 }
+
+//! Array Methods 
+
