@@ -81,3 +81,26 @@
 // // let res=a.map((val)=> val*2)
 // console.log(a)
 // console.log(res)
+
+// let func = ()=>{
+//   console.log(1)
+// }
+
+// setTimeout(()=>{
+//   func = ()=>{
+//     console.log(2)
+//   }
+//   func()
+// },0)
+
+// setTimeout(func,100)
+
+
+// let func =() => { console.log(1) }
+// setTimeout (()=>{
+//  func = () => {
+//  console.log(2)
+//  }
+//  func();
+// },0)
+// setTimeout (func,100)
