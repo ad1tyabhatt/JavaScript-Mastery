@@ -62,13 +62,22 @@
 // let a = new Array(9).fill(0)
 // console.log(a)
 
-function outside(){
+// function outside(){
 
-  const one =()=>{
-    console.log(this)
-  }
+//   const one =()=>{
+//     console.log(this)
+//   }
   
-  one()
-}
+//   one()
+// }
 
-outside()
+// outside()
+
+
+// ! filter and Map
+
+// let a = [1,2,3]
+// let res = a.filter((val)=> val/2>=1)
+// // let res=a.map((val)=> val*2)
+// console.log(a)
+// console.log(res)
