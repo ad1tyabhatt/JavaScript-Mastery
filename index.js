@@ -26,9 +26,46 @@
 //! Functions Begins
 
 
-function sing(){
+// function sing(){
 
-}
+// }
 
 //! Array Methods 
 
+
+// map method
+
+// const users = [
+//   {fname:"Aditya", age:23},
+//   {fname: "Adi" , age:25}
+// ]
+
+
+// const res = users.map((user)=>{
+//   return user.fname
+// }) 
+
+// console.log(res)
+
+// const a = (1,2,1)
+// console.log(a)
+
+// console.log(typeof(toString(NaN)))
+
+
+// let user = {
+//   firstName:"Aditya",
+//   lastName:"Bhatt"
+// }
+
+
+// let a = new Array(9).fill(0)
+// console.log(a)
+
+// const one =()=>{
+//   console.log(this)
+// }
+
+// one()
+
+console.log(this)
