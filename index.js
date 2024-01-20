@@ -104,3 +104,39 @@
 //  func();
 // },0)
 // setTimeout (func,100)
+
+
+// const a = 'adi'
+// console.log(!typeof(a))
+// if(!typeof a==='string'){
+//   console.log('string')
+// }else{
+//   console.log('not a string')
+// }
+
+
+// let a= 1;
+// (function(){
+//   let foo = ()=> a;
+//   let a = 2;
+//   console.log(foo())
+// }())
+
+
+// let c = 20;
+// if(c==20){
+//   let c = 31;
+//   console.log(c)
+// }
+// console.log(c)
+
+
+// function mul(a){
+//   return function (b){
+//     return function(c){
+//       return a*b*c;
+//     }
+//   }
+// }
+// console.log(mul(2)(3)(4)); // output : 24
+
