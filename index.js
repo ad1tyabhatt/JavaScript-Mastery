@@ -62,10 +62,13 @@
 // let a = new Array(9).fill(0)
 // console.log(a)
 
-// const one =()=>{
-//   console.log(this)
-// }
+function outside(){
 
-// one()
+  const one =()=>{
+    console.log(this)
+  }
+  
+  one()
+}
 
-console.log(this)
+outside()
